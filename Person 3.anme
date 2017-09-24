@@ -1,12 +1,12 @@
 application/x-vnd.lm_mohodoc
 version 46
 ### Created in Moho version 10.1.3, © 1999-2015 Smith Micro Software, Inc.
-### Created: Mon Sep 25 00:22:37 2017
+### Created: Mon Sep 25 00:30:43 2017
 #escaped_quotes
 
 ### static values
 dimensions 1920 1080
-frame_range 1 19
+frame_range 1 15
 fps 24
 back_color 234 234 234 255
 noise_grain 0
@@ -27,7 +27,7 @@ soundtrack ""
 
 ### document metadata
 metadata
-	"DocumentThumbnail"	"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"
+	"DocumentThumbnail"	"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"
 	"LM_Message_end"	"TRUE"
 
 ### animated values
@@ -841,7 +841,7 @@ layer_type 4
 	skeleton
 	[
 		binding_mode 1
-		bones 16
+		bones 15
 			"B1" -1 -1 1 -1 1 1 -1 1 false false false 0.988979 0 -1 false 			[
 				keys 1
 					0 1 0.1 0.5 1 0 0 0 0
@@ -855,7 +855,7 @@ layer_type 4
 			2 2 1
 			[
 				keys 1
-					0 1 0.1 0.5 1 0 0 0 -0.559181 -0.290503
+					0 1 0.1 0.5 1 0 0 0 -0.559181 -0.296031
 			]
 			[
 				keys 1
@@ -897,9 +897,8 @@ layer_type 4
 					0 1 0.1 0.5 1 0 0 0 -0.005776 0.001379
 			]
 			[
-				keys 2
+				keys 1
 					0 1 0.1 0.5 1 0 0 0 1.564682
-					6 1 0.1 0.5 1 0 0 0 1.552772
 			]
 			[
 				keys 1
@@ -937,9 +936,8 @@ layer_type 4
 					0 1 0.1 0.5 1 0 0 0 0.139262 0.000103
 			]
 			[
-				keys 2
+				keys 1
 					0 1 0.1 0.5 1 0 0 0 0.009993
-					6 1 0.1 0.5 1 0 0 0 -0.012936
 			]
 			[
 				keys 1
@@ -977,9 +975,8 @@ layer_type 4
 					0 1 0.1 0.5 1 0 0 0 0.15041 0
 			]
 			[
-				keys 2
+				keys 1
 					0 1 0.1 0.5 1 0 0 0 6.273941
-					6 1 0.1 0.5 1 0 0 0 6.270316
 			]
 			[
 				keys 1
@@ -1017,9 +1014,8 @@ layer_type 4
 					0 1 0.1 0.5 1 0 0 0 0.136477 -0.001394
 			]
 			[
-				keys 2
+				keys 1
 					0 1 0.1 0.5 1 0 0 0 6.28318
-					6 1 0.1 0.5 1 0 0 0 6.276401
 			]
 			[
 				keys 1
@@ -1057,9 +1053,8 @@ layer_type 4
 					0 1 0.1 0.5 1 0 0 0 0.165722 0.001392
 			]
 			[
-				keys 2
+				keys 1
 					0 1 0.1 0.5 1 0 0 0 6.273749
-					6 1 0.1 0.5 1 0 0 0 6.401586
 			]
 			[
 				keys 1
@@ -1097,17 +1092,8 @@ layer_type 4
 					0 1 0.1 0.5 1 0 0 0 0.126998 -0.004098
 			]
 			[
-				keys 10
+				keys 1
 					0 1 0.1 0.5 1 0 0 0 3.729919
-					2 1 0.1 0.5 1 0 0 0 4.235207
-					4 1 0.1 0.5 1 0 0 0 4.440496
-					6 1 0.1 0.5 1 0 0 0 4.863169
-					8 1 0.1 0.5 1 0 0 0 4.711394
-					9 1 0.1 0.5 1 0 0 0 4.103381
-					13 1 0.1 0.5 1 0 0 0 3.61526
-					15 1 0.1 0.5 1 0 0 0 3.871184
-					17 1 0.1 0.5 1 0 0 0 4.35446
-					19 1 0.1 0.5 1 0 0 0 4.772226
 			]
 			[
 				keys 1
@@ -1145,17 +1131,8 @@ layer_type 4
 					0 1 0.1 0.5 1 0 0 0 0.168977 -0.001341
 			]
 			[
-				keys 10
+				keys 1
 					0 1 0.1 0.5 1 0 0 0 0.022376
-					2 1 0.1 0.5 1 0 0 0 0.449589
-					4 1 0.1 0.5 1 0 0 0 0.621007
-					6 1 0.1 0.5 1 0 0 0 0.6838
-					8 1 0.1 0.5 1 0 0 0 0.585116
-					9 1 0.1 0.5 1 0 0 0 0.296096
-					13 1 0.1 0.5 1 0 0 0 0.437471
-					15 1 0.1 0.5 1 0 0 0 0.656745
-					17 1 0.1 0.5 1 0 0 0 0.315519
-					19 1 0.1 0.5 1 0 0 0 0.659923
 			]
 			[
 				keys 1
@@ -1177,7 +1154,7 @@ layer_type 4
 				keys 1
 					0 1 0.1 0.5 1 0 0 0 0
 			]
-			"B9" 4 -1 1 -1 1 1 -1 1 true false false 0.169044 0.115607 -1 false 			[
+			"B9" 4 -1 1 -1 1 1 -1 1 false false false 0.169044 0.115607 -1 false 			[
 				keys 1
 					0 1 0.1 0.5 1 0 0 0 0
 			]
@@ -1193,16 +1170,8 @@ layer_type 4
 					0 1 0.1 0.5 1 0 0 0 0.126998 0.002074
 			]
 			[
-				keys 9
+				keys 1
 					0 1 0.1 0.5 1 0 0 0 2.511432
-					2 1 0.1 0.5 1 0 0 0 2.783154
-					4 1 0.1 0.5 1 0 0 0 2.885444
-					6 1 0.1 0.5 1 0 0 0 2.76839
-					8 1 0.1 0.5 1 0 0 0 2.987924
-					11 1 0.1 0.5 1 0 0 0 2.783099
-					13 1 0.1 0.5 1 0 0 0 2.786092
-					15 1 0.1 0.5 1 0 0 0 2.720999
-					19 1 0.1 0.5 1 0 0 0 2.609445
 			]
 			[
 				keys 1
@@ -1224,7 +1193,7 @@ layer_type 4
 				keys 1
 					0 1 0.1 0.5 1 0 0 0 0
 			]
-			"B10" 8 -1 1 -1 1 1 -1 1 false false false 0.155198 0.115607 -1 false 			[
+			"B10" 8 -1 1 -1 1 1 -1 1 true false false 0.155198 0.115607 -1 false 			[
 				keys 1
 					0 1 0.1 0.5 1 0 0 0 0
 			]
@@ -1240,15 +1209,8 @@ layer_type 4
 					0 1 0.1 0.5 1 0 0 0 0.158353 0.001746
 			]
 			[
-				keys 8
+				keys 1
 					0 1 0.1 0.5 1 0 0 0 0.076344
-					2 1 0.1 0.5 1 0 0 0 1.215694
-					4 1 0.1 0.5 1 0 0 0 1.764133
-					6 1 0.1 0.5 1 0 0 0 1.507854
-					8 1 0.1 0.5 1 0 0 0 1.530979
-					11 1 0.1 0.5 1 0 0 0 1.648131
-					13 1 0.1 0.5 1 0 0 0 1.170397
-					19 1 0.1 0.5 1 0 0 0 1.588461
 			]
 			[
 				keys 1
@@ -1286,12 +1248,8 @@ layer_type 4
 					0 1 0.1 0.5 1 0 0 0 -0.003743 0.001925
 			]
 			[
-				keys 5
+				keys 1
 					0 1 0.1 0.5 1 0 0 0 4.391079
-					2 1 0.1 0.5 1 0 0 0 4.661025
-					8 1 0.1 0.5 1 0 0 0 4.631859
-					11 1 0.1 0.5 1 0 0 0 4.544322
-					19 1 0.1 0.5 1 0 0 0 4.511091
 			]
 			[
 				keys 1
@@ -1329,12 +1287,8 @@ layer_type 4
 					0 1 0.1 0.5 1 0 0 0 0.22206 0.000514
 			]
 			[
-				keys 5
+				keys 1
 					0 1 0.1 0.5 1 0 0 0 0.002732
-					2 1 0.1 0.5 1 0 0 0 -0.517987
-					8 1 0.1 0.5 1 0 0 0 -0.534849
-					11 1 0.1 0.5 1 0 0 0 -0.358399
-					19 1 0.1 0.5 1 0 0 0 -0.264178
 			]
 			[
 				keys 1
@@ -1434,7 +1388,7 @@ layer_type 4
 				keys 1
 					0 1 0.1 0.5 1 0 0 0 0
 			]
-			"B16" -1 -1 1 -1 1 1 -1 1 false false false 0.342747 0 -1 false 			[
+			"B16" -1 -1 1 -1 1 1 -1 1 false false false 0.342747 1 -1 false 			[
 				keys 1
 					0 1 0.1 0.5 1 0 0 0 0
 			]
@@ -1446,61 +1400,12 @@ layer_type 4
 			]
 			2 2 1
 			[
-				keys 3
+				keys 1
 					0 1 0.1 0.5 1 0 0 0 -0.444481 -0.665074
-					2 1 0.1 0.5 1 0 0 0 -0.518047 -0.665074
-					19 1 0.1 0.5 1 0 0 0 -0.493525 -0.66017
 			]
 			[
 				keys 1
-					0 1 0.1 0.5 1 0 0 0 4.718395
-			]
-			[
-				keys 1
-					0 1 0.1 0.5 1 0 0 0 1
-			]
-			[
-				keys 1
-					0 1 0.1 0.5 1 0 0 0 -1
-			]
-			[
-				keys 1
-					0 1 0.1 0.5 1 0 0 0 false
-			]
-			[
-				keys 1
-					0 1 0.1 0.5 1 0 0 0 0 0
-			]
-			[
-				keys 1
-					0 1 0.1 0.5 1 0 0 0 0
-			]
-			"B17" 7 -1 1 -1 1 1 -1 1 false false false 0.685299 0.22158 -1 false 			[
-				keys 1
-					0 1 0.1 0.5 1 0 0 0 0
-			]
-10 false 0 0 false 0 1 1
-			false -1.221731 1.221731
-			[
-				keys 1
-					0 1 0.1 0.5 1 0 0 0 false
-			]
-			2 2 1
-			[
-				keys 1
-					0 1 0.1 0.5 1 0 0 0 0.141689 0.001392
-			]
-			[
-				keys 9
-					0 1 0.1 0.5 1 0 0 0 1.98682
-					2 1 0.1 0.5 1 0 0 0 1.366669
-					4 1 0.1 0.5 1 0 0 0 1.280993
-					6 1 0.1 0.5 1 0 0 0 1.010195
-					8 1 0.1 0.5 1 0 0 0 0.606005
-					9 1 0.1 0.5 1 0 0 0 0.665436
-					13 1 0.1 0.5 1 0 0 0 0.896315
-					15 1 0.1 0.5 1 0 0 0 0.95264
-					19 1 0.1 0.5 1 0 0 0 1.118522
+					0 1 0.1 0.5 1 0 0 0 4.72858
 			]
 			[
 				keys 1
@@ -1880,22 +1785,22 @@ layer_type 4
 		mesh
 		[
 			curve_interpretation 1
-			points 6
+			points 8
 				[
 					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.560888 0.776205
+						0 1 0.1 0.5 1 0 0 0 -0.566416 0.836321
 				]
 				[
 					keys 1
 						0 1 0.1 0.5 1 0 0 0 1
 				]
 				-2
-				false
+				true
 				1
 					0 0 
 				[
 					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.393419 0.531647
+						0 1 0.1 0.5 1 0 0 0 -0.41319 0.558277
 				]
 				[
 					keys 1
@@ -1907,19 +1812,7 @@ layer_type 4
 					0 1 
 				[
 					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.560888 0.287089
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					0 2 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.728357 0.531647
+						0 1 0.1 0.5 1 0 0 0 -0.566416 0.29331
 				]
 				[
 					keys 1
@@ -1929,6 +1822,18 @@ layer_type 4
 				false
 				1
 					0 3 
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 -0.722912 0.558277
+				]
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 1
+				]
+				-2
+				false
+				1
+					0 5 
 				[
 					keys 1
 						0 1 0.1 0.5 1 0 0 0 -1.772739 -0.71532
@@ -1950,11 +1855,35 @@ layer_type 4
 						0 1 0.1 0.5 1 0 0 0 1
 				]
 				-2
-				true
+				false
 				1
 					1 1 
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 -0.408567 0.351239
+				]
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 1
+				]
+				-2
+				false
+				1
+					0 2 
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 -0.702491 0.339366
+				]
+				[
+					keys 1
+						0 1 0.1 0.5 1 0 0 0 1
+				]
+				-2
+				false
+				1
+					0 4 
 			curves 2
-				4 true
+				6 true
 				-1 -1 16
 					0 true
 					[
@@ -1966,10 +1895,20 @@ layer_type 4
 						keys 1
 							0 1 0.1 0.5 1 0 0 0 0.571538
 					]
+					6 true
+					[
+						keys 1
+							0 1 0.1 0.5 1 0 0 0 0.3
+					]
 					2 true
 					[
 						keys 1
 							0 1 0.1 0.5 1 0 0 0 0.26801
+					]
+					7 true
+					[
+						keys 1
+							0 1 0.1 0.5 1 0 0 0 0.3
 					]
 					3 true
 					[
@@ -2022,18 +1961,20 @@ layer_type 4
 					keys 1
 						0 1 0.1 0.5 1 0 0 0 0.125
 				]
-					4
+					6
 						0 0 0
 						0 1 0
 						0 2 0
 						0 3 0
+						0 4 0
+						0 5 0
 					""
 						false
 						[
 							keys 1
-								0 1 0.1 0.5 1 0 0 0 1 1 1 1
+								0 1 0.1 0.5 1 0 0 0 1 0.796078 0.4 1
 						]
-						false 0.013889
+						false 0.005556
 						false
 						[
 							keys 1
@@ -4449,1970 +4390,6 @@ layer_type 4
 						[
 							keys 1
 								0 1 0.1 0.5 1 0 0 0 1 1 1 1
-						]
-						false 0.013889
-						false
-						[
-							keys 1
-								0 1 0.1 0.5 1 0 0 0 0 0 0 1
-						]
-						1
-						""
-						false
-						6.283185
-						0.25
-						true
-						true
-						-1
-						-1
-						-1
-					""
-					""
-
-			groups 0
-		]
-	}
-	layer_type 1
-	{
-		### generic layer values
-		name "Дубіна"
-		uuid "a98a0216-8020-48f3-8a34-a9fd36ed67fb"
-		quality_flags 4092
-		animated_layer_effects false
-		origin 0 0
-		parent_bone -1
-		visible true
-		render_only false
-		edit_only false
-		scale_compensation true
-		rotate_to_follow false
-		face_camera false
-		masking 0
-		mask_expansion false
-		blend_mode 0
-		camera_immune false
-		dof_immune false
-		metadata
-			"FlexiBoneSubset"	"15"
-			"FlexiBoneElbow"	"FALSE"
-			"label_col"	"0"
-			"LM_Message_end"	"TRUE"
-		timing_offset 0
-		follow_layer -1
-		follow_curve -1
-		follow_bending false
-		random_num 14010
-
-		### transforms
-		translation
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0 0 0
-		]
-		scale
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 1 1 1
-		]
-		rotation_x
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0
-		]
-		rotation_y
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0
-		]
-		rotation_z
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0
-		]
-		flip_h
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 false
-		]
-		flip_v
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 false
-		]
-		shear
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0 0 0
-		]
-		following
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0
-		]
-		physics_nudge
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0 0
-		]
-
-		### layer effects
-		visibility
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 true
-		]
-		blur
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0
-		]
-		alpha
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 1
-		]
-		ambient_occlusion
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0
-		]
-		threshold
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0
-		]
-
-		### layer shadow
-		layer_shadow_on
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 false
-		]
-		layer_shadow_angle
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 5.497787
-		]
-		layer_shadow_offset
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0.033333
-		]
-		layer_shadow_blur
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0.016667
-		]
-		layer_shadow_expansion
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0
-		]
-		layer_shadow_color
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0 0 0 0.501961
-		]
-		layer_shadow_noise_amp
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0
-		]
-		layer_shadow_noise_scale
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 64
-		]
-		layer_shadow_threshold
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 false
-		]
-
-		### layer shading
-		layer_shading_on
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 false
-		]
-		layer_shading_angle
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 5.497787
-		]
-		layer_shading_offset
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0.033333
-		]
-		layer_shading_blur
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0.066667
-		]
-		layer_shading_contraction
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0
-		]
-		layer_shading_color
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0 0 0 0.501961
-		]
-		layer_shading_noise_amp
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0
-		]
-		layer_shading_noise_scale
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 64
-		]
-		layer_shading_threshold
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 false
-		]
-
-		### perspective shadow
-		perspective_shadow_on
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 false
-		]
-		perspective_shadow_blur
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0.012346
-		]
-		perspective_shadow_scale
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 1
-		]
-		perspective_shadow_shear
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0
-		]
-		perspective_shadow_color
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0 0 0 0.501961
-		]
-		perspective_shadow_threshold
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 false
-		]
-
-		### motion blur
-		motion_blur_on
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 false
-		]
-		motion_blur_frames
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 2
-		]
-		motion_blur_skip
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 1
-		]
-		motion_blur_alpha_start
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0.3
-		]
-		motion_blur_alpha_end
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0.1
-		]
-		motion_blur_radius
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0.008333
-		]
-
-		### layer outline
-		layer_outline_on
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 false
-		]
-		layer_outline_width
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0.004115
-		]
-		layer_outline_color
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0 0 0 1
-		]
-
-		### layer color
-		layer_color_on
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 false
-		]
-		layer_color
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0.388235 0.709804 0.87451 0.501961
-		]
-		timeline_markers
-		[
-			keys 1
-				-1000000 1 0.1 0.5 1 0 0 0 ""
-		]
-
-		### physics
-		physics_enabled true
-		physics_static false
-		physics_sleeping false
-		physics_respawn 0
-		physics_velocity 0 0
-		physics_density 1
-		physics_friction 0.3
-		physics_restitution 0.5
-		physics_pivot false
-		physics_enable_motor false
-		physics_motor_speed 
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 3.141593
-		]
-		physics_motor_torque 10000
-		physics_force_field false
-		physics_force_field_vector 
-		[
-			keys 1
-				0 1 0.1 0.5 1 0 0 0 0 1
-		]
-
-		### mesh layer values
-		noisy_shapes false
-		noisy_lines false
-		animated_noise false
-		extra_sketchy false
-		noise_amp 0.005556
-		noise_scale 0.044444
-		noise_interval 1
-		extra_lines 0
-		gap_filling false
-		exclude_lines_from_mask false
-		fill_texture ""
-		line_texture ""
-		3d_mode 0
-		3d_options 
-		[
-			3d_shading_mode 1
-			3d_shading_density 50
-			3d_shading_color 64 64 64 255
-			3d_silhouette_edges true
-			3d_material_edges true
-			3d_crease_edges true
-			3d_crease_angle 1.047198
-			3d_edge_extension 0
-			3d_backface_removal false
-			3d_reset_z false
-		]
-		mesh
-		[
-			curve_interpretation 1
-			points 82
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.391438 0.007104
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					0 0 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.043761 0.436637
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					0 2 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.165266 0.505636
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					0 11 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.071032 0.587207
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				2
-					0 7 1 0 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 0.005986 0.485789
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					0 3 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.062813 0.523661
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					0 5 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.164089 0.474241
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					0 12 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.084015 0.39675
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					0 1 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.146501 0.576925
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					0 9 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.117611 0.558962
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					0 8 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.143371 0.54934
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					0 10 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.040746 0.487726
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					0 4 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.042629 0.59471
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				2
-					0 6 1 1 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.044222 0.593548
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 0 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.049137 0.594043
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 1 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.055234 0.59267
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 2 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.059463 0.590116
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 3 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.082477 0.578529
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 4 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.103623 0.56576
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 5 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.107852 0.563206
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 6 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.113949 0.561833
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 7 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.118864 0.562328
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 8 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.126334 0.567051
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 9 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.133803 0.571775
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 10 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.141767 0.571583
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 11 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.14531 0.565981
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 12 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.145118 0.558017
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 13 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.141878 0.55074
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 14 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.151628 0.522922
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 15 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.162065 0.498151
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 16 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.162862 0.480356
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 17 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.163659 0.462561
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 18 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.174398 0.424911
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 19 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.196755 0.360624
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 20 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.20601 0.337722
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 21 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.269205 0.212993
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 22 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.289776 0.176333
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 23 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.299718 0.156478
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 24 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.30966 0.136624
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 25 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.321469 0.11795
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 26 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.333279 0.099277
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 27 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.341545 0.086206
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 28 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.346764 0.073821
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 29 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.359754 0.05328
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 30 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.362116 0.049545
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 31 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.365659 0.043943
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 32 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.365659 0.043943
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 33 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.36684 0.042076
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 34 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.364972 0.040895
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 35 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.36261 0.044629
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 36 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.360248 0.048364
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 37 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.359067 0.050232
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 38 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.348934 0.062122
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 39 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.340667 0.075193
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 40 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.32699 0.092686
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 41 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.313314 0.110178
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 42 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.302685 0.126985
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 43 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.289008 0.144477
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 44 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.274151 0.163837
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 45 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.257426 0.182016
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 46 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.239025 0.206978
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 47 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.219444 0.233807
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 48 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.211672 0.241963
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 49 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.202719 0.251986
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 50 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.149193 0.320089
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 51 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.09498 0.385143
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 52 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.063892 0.417767
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 53 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.027202 0.446847
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 54 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.014514 0.454508
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 55 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.002513 0.465218
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 56 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 0.005753 0.478289
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 57 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 0.002513 0.485567
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 58 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.00427 0.487242
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 59 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.011053 0.488918
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 60 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.026981 0.488534
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 61 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.03986 0.488836
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 62 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.05057 0.500838
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 63 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.060977 0.525719
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 64 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.05595 0.546068
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 65 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.043646 0.569657
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 66 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.04079 0.578307
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 67 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 -0.040982 0.586271
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				-2
-				false
-				1
-					2 68 
-			curves 3
-				13 true
-				-1 -1 16
-					0 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.001
-					]
-					7 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					1 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.001
-					]
-					4 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					11 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					5 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					12 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					3 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					9 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					8 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					10 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					2 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.001
-					]
-					6 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 -0.1
-					]
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 1.1
-					]
-				2 false
-				-1 -1 16
-					3 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					12 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 -0.1
-					]
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 1.1
-					]
-				69 true
-				-1 -1 16
-					13 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					14 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					15 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					16 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					17 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					18 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					19 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					20 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					21 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					22 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					23 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					24 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					25 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					26 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					27 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.001
-					]
-					28 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					29 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					30 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					31 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					32 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					33 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					34 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					35 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					36 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					37 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					38 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					39 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					40 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					41 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					42 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					43 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					44 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					45 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.001
-					]
-					46 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					47 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					48 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					49 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					50 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					51 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.001
-					]
-					52 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					53 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					54 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					55 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					56 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					57 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					58 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					59 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					60 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					61 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					62 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					63 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					64 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					65 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					66 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					67 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					68 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					69 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					70 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.001
-					]
-					71 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					72 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					73 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					74 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					75 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					76 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					77 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					78 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					79 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					80 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					81 true
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 0.3
-					]
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 -0.1
-					]
-					[
-						keys 1
-							0 1 0.1 0.5 1 0 0 0 1.1
-					]
-			shapes 2
-				"" false true true true 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 0
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 0 0
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 0.125
-				]
-					13
-						0 0 0
-						0 1 0
-						0 2 0
-						0 3 0
-						0 4 0
-						0 5 0
-						0 6 0
-						0 7 0
-						0 8 0
-						0 9 0
-						0 10 0
-						0 11 0
-						0 12 0
-					""
-						false
-						[
-							keys 1
-								0 1 0.1 0.5 1 0 0 0 1 1 1 1
-						]
-						false 0.013889
-						false
-						[
-							keys 1
-								0 1 0.1 0.5 1 0 0 0 0 0 0 1
-						]
-						1
-						""
-						false
-						6.283185
-						0.25
-						true
-						true
-						-1
-						-1
-						-1
-					""
-					""
-
-				"" false true true true 
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 1
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 0
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 0 0
-				]
-				[
-					keys 1
-						0 1 0.1 0.5 1 0 0 0 0.125
-				]
-					69
-						2 0 0
-						2 1 0
-						2 2 0
-						2 3 0
-						2 4 0
-						2 5 0
-						2 6 0
-						2 7 0
-						2 8 0
-						2 9 0
-						2 10 0
-						2 11 0
-						2 12 0
-						2 13 0
-						2 14 0
-						2 15 0
-						2 16 0
-						2 17 0
-						2 18 0
-						2 19 0
-						2 20 0
-						2 21 0
-						2 22 0
-						2 23 0
-						2 24 0
-						2 25 0
-						2 26 0
-						2 27 0
-						2 28 0
-						2 29 0
-						2 30 0
-						2 31 0
-						2 32 0
-						2 33 0
-						2 34 0
-						2 35 0
-						2 36 0
-						2 37 0
-						2 38 0
-						2 39 0
-						2 40 0
-						2 41 0
-						2 42 0
-						2 43 0
-						2 44 0
-						2 45 0
-						2 46 0
-						2 47 0
-						2 48 0
-						2 49 0
-						2 50 0
-						2 51 0
-						2 52 0
-						2 53 0
-						2 54 0
-						2 55 0
-						2 56 0
-						2 57 0
-						2 58 0
-						2 59 0
-						2 60 0
-						2 61 0
-						2 62 0
-						2 63 0
-						2 64 0
-						2 65 0
-						2 66 0
-						2 67 0
-						2 68 0
-					""
-						false
-						[
-							keys 1
-								0 1 0.1 0.5 1 0 0 0 0.32549 0.227451 0.113725 1
 						]
 						false 0.013889
 						false
