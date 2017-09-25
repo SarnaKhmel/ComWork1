@@ -19,7 +19,7 @@ public class Enemy : Creature {
 
 	void Update () {
 		if(!attack)
-			//Move ();
+		Move ();
 		Attack ();
 		Death ();
 	}
