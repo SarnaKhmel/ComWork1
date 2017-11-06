@@ -45,7 +45,7 @@ public class Enemy : MonoBehaviour {
 			opponent.attack = false;
 			opponent.stop = false;
 			Destroy (this.gameObject);
-			charCount = 0;
+			Character.enemyCount = 0;
 		}
 	}
 
@@ -93,5 +93,6 @@ public class Enemy : MonoBehaviour {
 			}
 		} 
 		count++;
+		//Physics2D.IgnoreCollision (castle.GetComponent<Collider2D>(), GetComponent<Collider2D>());
 	}
 }

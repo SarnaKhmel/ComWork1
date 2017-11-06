@@ -75,7 +75,7 @@ public class Character : MonoBehaviour {
 			opponent.attack = false;
 			opponent.stop = false;
 			Destroy (this.gameObject);
-			enemyCount = 0;
+			Enemy.charCount = 0;
 		}
 	}
 
